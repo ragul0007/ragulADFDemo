@@ -1,0 +1,9 @@
+{
+	"name": "RagulGitADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f66533a0-2c2b-43b0-a2af-c75244ce00bd",
+		"tenantId": "2f8d39f2-7dc6-4d8a-bb64-ad61650153e3"
+	}
+}
